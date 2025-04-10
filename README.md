@@ -33,8 +33,8 @@
 ### 🔧 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/Jarvis-Voice-Assistant.git
-cd Jarvis-Voice-Assistant
+git clone https://github.com/Waqas-Khan-CodeCanvas/codeAlpha-tasks.git
+cd codeAlpha-tasks
 ```
 
 ### 📦 2. Install Required Dependencies
@@ -86,7 +86,7 @@ python jarvis.py
 
 **Waqas Khan**  
 🎓 Intern at [CodeAlpha](https://codealpha.tech/)  
-🔗 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [GitHub](https://github.com/Waqas-Khan-CodeCanvas) | [LinkedIn](https://www.linkedin.com/in/waqas-khan-py/)
 
 ---
 
